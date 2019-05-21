@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1558118369 source:c:\tmp\c\strmplfunc\strmplfunc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"python.h"
+	"string.h"
+
+1557962284 c:\tmp\c\strmplfunc\strmplfunc\strmplfunc.h
+
+1557962523 source:c:\tmp\c\strmplfunc\strmplfunc\strmplfunc.c
+	"strmplfunc.h"
+	"stddef.h"
+
+1558020820 source:c:\tmp\c\strmplfunc\strmplfunc\phyton.c
+	"phyton.h"
+	"stddef.h"
+	"common.h"
+
+1558020693 c:\tmp\c\strmplfunc\strmplfunc\phyton.h
+
+1558112958 c:\tmp\c\strmplfunc\strmplfunc\common.h
+	<stdio.h>
+
+1558117530 source:c:\tmp\c\strmplfunc\strmplfunc\common.c
+	"common.h"
+	"stddef.h"
+	"stdlib.h"
+
+1558124314 c:\tmp\c\strmplfunc\strmplfunc\python.h
+
+1558116959 source:c:\tmp\c\strmplfunc\strmplfunc\python.c
+	"python.h"
+	"stddef.h"
+	"common.h"
+
+1558134982 source:c:\tmp\c\babelstrfuncs\babelstrfuncs\common.c
+	"common.h"
+	"stddef.h"
+	"stdlib.h"
+
+1558135041 c:\tmp\c\babelstrfuncs\babelstrfuncs\common.h
+	<stdio.h>
+
+1558118369 source:c:\tmp\c\babelstrfuncs\babelstrfuncs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"python.h"
+	"string.h"
+
+1558124314 c:\tmp\c\babelstrfuncs\babelstrfuncs\python.h
+
